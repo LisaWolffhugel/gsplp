@@ -29,6 +29,8 @@ you can also explore most best practices from the deployment best practices link
 - [Azure Purview security best practices](https://docs.microsoft.com/en-us/azure/purview/concept-best-practices-security)
 - [Azure Purview limits](https://docs.microsoft.com/en-us/azure/purview/how-to-manage-quotas)
 
+Explore Azure Purview policies with this [video](https://www.youtube.com/watch?v=CFE8ltT19Ss)
+
 
 # Congratulations you finished the learning path 
 
