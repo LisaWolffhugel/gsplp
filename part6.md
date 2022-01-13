@@ -1,4 +1,4 @@
-# WIP - Week 7
+# Week 7
 ## CAF/WAF for analytics and data governance
 
 Learn more about Well Architected framework and Cloud Adoption framework in the context of analytics and data governance
