@@ -31,6 +31,8 @@ In this hands-on-lab, you will build an end-to-end data analytics with machine l
 
 Questions regarding the 2 labs will also be answered/discussed during the office hours on week 6.
 Azure Pass will be provided for the hands-on. 
+
+
 ---
 
 [previous-link]: part4.md
