@@ -1,39 +1,36 @@
 # Week 5
-## Azure Synapse Analytics Training
-
-**Full day workshop**
-
-**When**: Week of 14th of February if possible - will depend on Western Europe calendar - 
-**Language**: English
-
-This workshop will be either delivered by us or by Western Europe team we will give more information sooner.
-
-**Workshop**
-In this workshop, you will look at the process of creating an end-to-end solution using Azure Synapse Analytics. It is composed of a white board session and a hands-on part.
-
-**Whiteboard design session**
-In this whiteboard design session, you will work in a group to look at the process of designing an end-to-end solution using Azure Synapse Analytics. The design session will cover data loading, data preparation, data transformation and data serving, along with performing machine learning and handling of both batch and real-time data.
-At the end of this whiteboard design session, you will be better able to design and build a complete end-to-end advanced analytics solution using Azure Synapse Analytics.
-
-**Hands-on lab**
-In this hands-on-lab, you will build an end-to-end data analytics with machine learning solution using Azure Synapse Analytics. The information will be presented in the context of a retail scenario. We will be heavily leveraging Azure Synapse Studio, a tool that conveniently unifies the most common data operations from ingestion, transformation, querying, and visualization.
-
---- 
-
-# Week 6
 
 ## Azure Purview lab 
 
 **Full day workshop**
 
-**When**: Week of 14th of February - date will be disclosed later. 
+**When**: Week of 28th of February 2022 - exact date will be disclosed later. 
 **Language**: English
 
 Link to the lab here : [Purview lab - github](https://github.com/tayganr/purviewlab)
 we will be available to quick start the lab and several time during the day to answer your question. 
 
-Questions regarding the lab will also be answered/discussed during the office hours.
 
+No office hours this week. 
+
+--- 
+# Week 6
+## Azure Synapse Analytics Training
+
+**Full day workshop**
+
+**When**: Week of 7th of March 2022 if possible  - exact date will be disclosed later.
+**Language**: English
+
+
+Link to the lab here : [Synapse analytic in a day - github](https://github.com/solliancenet/azure-synapse-analytics-day)
+We will start the lab with the [setup](https://github.com/solliancenet/azure-synapse-analytics-day/blob/master/00-setup-workspace.md) 
+
+In this hands-on-lab, you will build an end-to-end data analytics with machine learning solution using Azure Synapse Analytics. The information will be presented in the context of a retail scenario. We will be heavily leveraging Azure Synapse Studio, a tool that conveniently unifies the most common data operations from ingestion, transformation, querying, and visualization.
+
+
+Questions regarding the 2 labs will also be answered/discussed during the office hours on week 6.
+Azure Pass will be provided for the hands-on. 
 ---
 
 [previous-link]: part4.md
