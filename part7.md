@@ -25,6 +25,7 @@ Review these resources to understand the different ways to use Synapse and Purvi
 ### Purview ~30 minutes
 
 you can also explore most best practices from the deployment best practices link. 
+- [Prerequisites for Azure Purview deployment](https://docs.microsoft.com/en-us/azure/purview/tutorial-azure-purview-checklist)
 - [Azure Purview deployment best practices](https://docs.microsoft.com/en-us/azure/purview/deployment-best-practices)
 - [Azure Purview security best practices](https://docs.microsoft.com/en-us/azure/purview/concept-best-practices-security)
 - [Azure Purview limits](https://docs.microsoft.com/en-us/azure/purview/how-to-manage-quotas)
