@@ -16,6 +16,7 @@ Review these resources to understand the different ways to use Synapse and Purvi
 ### Synapse Spark ~20-25 minutes
 - [Using Delta Lake with Synapse Spark](https://docs.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-delta-lake-overview?pivots=programming-language-csharp)
 - [Data validation at scale](https://techcommunity.microsoft.com/t5/azure-architecture-blog/data-validation-at-scale-with-azure-synapse/ba-p/2051697)
+- [Optimize Spark Job in Azure Synapse](https://docs.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-performance)
 
 ### Migration from on-premises & cloud data warehouses ~2 minutes
 
